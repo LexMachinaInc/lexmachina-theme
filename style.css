@@ -1,0 +1,12 @@
+/*
+Theme Name: Lex Machina (Boilerplate)
+Description: Design for lexmachina.com
+Author: Gavin Carothers
+Template: boilerplate
+*/
+
+@import url("../boilerplate/style.css");
+
+#site-title a {
+  color: #009900;
+}
