@@ -58,6 +58,10 @@ ul.children a{
 	background:#731920;
 }
 
+p.no-comments {
+	display: none;
+}
+
 #content {
   padding: 1em;
 }
