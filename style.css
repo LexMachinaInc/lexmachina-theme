@@ -49,7 +49,7 @@ ul.children a{
 }
 .menu li:hover a{ /* These create persistent hover states, meaning the top-most link stays 'hovered' even when your cursor has moved down the list. */
 	background:#7A2F34;
-	text-decoration:underline;
+	/* text-decoration:underline;*/
 }
 .menu li:hover ul a{ /* The persistent hover state does however create a global style for links even before they're hovered. Here we undo these effects. */
 	text-decoration:none;
